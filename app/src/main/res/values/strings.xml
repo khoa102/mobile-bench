@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="get_info_button">Get Info</string>
+    <string name="vecAdd_button">Run vecAdd</string>
+    <string name="data_size_input">Enter Data Size</string>
+    <string name="graph_data_button">Run Graph Data</string>
+    <string name="run_benchmark_button">Run Benchmark</string>
+</resources>
